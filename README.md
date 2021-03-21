@@ -5,5 +5,4 @@
 然后调用lgb。没有采用xgb，catd的联合，因为我们发现单lgb效果更好
 在特定.py里也有其他的模型融合的方法，但200.py是我们最后效果最好的一版
 后来加入采样后，有些许提升。
-单词2vec的方法提升不大
 比赛的链接是：http ://data.sd.gov.cn/cmpt/cmptDetail.html?id=26
